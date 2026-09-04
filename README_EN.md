@@ -1,125 +1,83 @@
-# 🎮 DCS: DTC (Data Transfer Cartridge) Tutorials
+# DCS: Tutorial DTC (Data Transfer Cartridge)
 
-Welcome to this tutorial series dedicated to using **DTCs (Data Transfer Cartridges)** in DCS World.
+[🇮🇹 Italiano](README.md) | 🇬🇧 English
 
-Here you can find aircraft-specific `.dtc` files to download and use alongside the related video tutorials. The files are designed to help you follow, understand, and practise the procedures shown in each episode.
+Welcome to the official repository of the **DCS: Tutorial DTC** series!
 
----
+This collection of video tutorials and `.dtc` files (Data Transfer Cartridge) is designed to help you understand and replicate the procedures explained in the videos, directly in DCS World.
 
-## 📺 About this series
+## ✈️ Aircraft
 
-This video tutorial series provides a step-by-step guide to Data Transfer Cartridges across several DCS World modules.
+### F/A-18C Hornet
 
-Each tutorial is accompanied by a downloadable `.dtc` file, ready to use in your DCS installation.
+- **Status:** Available
+- **Video Tutorial:** [Watch the full tutorial](https://youtu.be/w2-hI98Nu5U)
+- **Download:** [Download F/A-18C Package](./FA-18C%20LOREAIR%20TUTORIAL.zip)
+- **Description:** Introductory DTC tutorial for the F/A-18C Hornet. Set up and use the Data Transfer Cartridge to learn the basic procedures explained in the video.
 
-**How it works:**
-1. Download the package for the aircraft you are interested in.
-2. Extract the included `.dtc` file.
-3. Copy it into the DTC folder in your DCS Saved Games directory.
-4. Watch the corresponding video tutorial.
-5. Apply the settings and procedures in DCS.
+### F-14B(U) Tomcat
 
----
+- **Status:** Coming soon
+- **Video Tutorial:** Coming soon
+- **Download:** Coming soon
+- **Description:** DTC tutorial for the F-14B(U) Tomcat by Heatblur Simulations.
 
-## ✈️ Available aircraft
+### F-16C Viper
 
-### 🛩️ F/A-18C Hornet
-- **Status:** ✅ Available
-- **Full video tutorial:** Coming soon
-- **DTC package:** [Download the F/A-18C package](./FA-18C%20LOREAIR%20TUTORIAL.zip)
+- **Status:** Coming soon
+- **Video Tutorial:** Coming soon
+- **Download:** Coming soon
+- **Description:** DTC tutorial for the F-16C Viper.
 
-> Extract the `.dtc` file from the ZIP archive and copy it to: `C:\Utente\Saved Games\DCS\DTC`
+### AH-64D Apache
 
-This is the first module in the series. The tutorial explains how to configure the Hornet DTC for practical and realistic mission use.
+- **Status:** Coming soon
+- **Video Tutorial:** Coming soon
+- **Download:** Coming soon
+- **Description:** DTC tutorial for the AH-64D Apache.
 
----
+## 📥 Installation
 
-### 🦅 F-14B(U) Tomcat — Heatblur Simulations
-- **Status:** 🔄 Coming soon
-- **Full video tutorial:** Coming soon
-- **DTC file:** To be added
+1. Download the aircraft ZIP package from the repository.
+2. Extract the `.dtc` file contained in the ZIP archive.
+3. Copy the `.dtc` file to the folder:
 
-A dedicated Tomcat DTC tutorial will be published in a future episode.
+   ```
+   C:\User\Saved Games\DCS\DTC
+   ```
 
----
-
-### 🐍 F-16C Viper
-- **Status:** 🔄 Coming soon
-- **Full video tutorial:** Coming soon
-- **DTC file:** To be added
-
-The F-16C Viper will join the series with its own DTC procedures and example files.
-
----
-
-### 🚁 AH-64D Apache
-- **Status:** 🔄 Coming soon
-- **Full video tutorial:** Coming soon
-- **DTC file:** To be added
-
-The Apache episode will cover its DTC workflow and mission-planning configuration.
-
----
-
-## 🎬 Series announcement
-
-For an introduction to this project, watch the announcement on **Aircafè**:
-
-▶️ [Watch the announcement on YouTube](https://youtu.be/VK0hQnTXsU4?si=dtZN6qUOpHUqeDP5)
-
----
+4. Launch DCS World.
+5. Load the DTC from the interface of the corresponding aircraft.
+6. Follow the associated video tutorial to understand the settings and procedures.
 
 ## 📋 Requirements
 
-To use these files, you need:
-
-- **DCS World**
-- The relevant DCS aircraft module for the tutorial you want to follow:
-  - [DCS: F/A-18C](https://www.digitalcombatsimulator.com/it/shop/modules/hornet/)
-  - [DCS: F-14B(U)](https://www.digitalcombatsimulator.com/it/shop/modules/f-14bu/)
-  - [DCS: F-16C Viper](https://www.digitalcombatsimulator.com/it/shop/modules/viper/)
-  - [DCS: AH-64D](https://www.digitalcombatsimulator.com/it/shop/modules/ah-64d/)
-
----
-
-## 📥 Installing DTC files
-
-### Installation path
-
-Copy the extracted `.dtc` files to:
-
-```text
-C:\Utente\Saved Games\DCS\DTC
-```
-
-### Step-by-step instructions
-
-1. Download the aircraft ZIP package from this repository.
-2. Extract the `.dtc` file from the ZIP archive.
-3. Copy the extracted `.dtc` file to:
-   ```text
-   C:\Utente\Saved Games\DCS\DTC
-   ```
-4. Start DCS World.
-5. Load the DTC using the relevant aircraft interface.
-6. Follow the related video tutorial to understand the configuration.
-
----
-
-## 🔗 Useful links
-
-- [Loreair on GitHub](https://github.com/loreair)
-- [DCS World](https://www.digitalcombatsimulator.com/)
-
----
+- DCS World
+- Module of the aircraft corresponding to the tutorial:
+  - DCS: F/A-18C
+  - DCS: F-14B(U)
+  - DCS: F-16C Viper
+  - DCS: AH-64D
 
 ## 📝 Notes
 
-- The `.dtc` files are provided **as is**, for educational purposes.
-- If you have questions or find a problem, please open an **Issue** in this repository.
+- `.dtc` files are provided as-is for educational purposes.
+- For questions, issues, or suggestions, open an Issue in this repository.
+
+## 🔗 Useful Links
+
+- **YouTube:** [@loreair](https://www.youtube.com/channel/UC-9IJ9-6Lw2QlqP0XKKlFQw)
+
+### 🔗 Follow me also on:
+
+- **Twitch:** [loreair](https://www.twitch.tv/loreair)
+- **Instagram:** [@loreair_aviation](https://www.instagram.com/loreair_aviation/)
+- **Discord:** [discord.gg/37wpFTNbsy](https://discord.gg/37wpFTNbsy)
+- **Telegram:** [t.me/LoreairOfficial](https://t.me/LoreairOfficial)
+- **GitHub Profile:** [github.com/loreair](https://github.com/loreair)
 
 ---
 
-**Have a great flight! ✈️**
+Happy landings! ✈️
 
 Created by [@loreair](https://github.com/loreair)
