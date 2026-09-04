@@ -107,6 +107,14 @@ C:\Utente\Saved Games\DCS\DTC
 
 ## 🔗 Link Utili
 
+- **YouTube:** [@loreair](https://www.youtube.com/channel/UC-9IJ9-6Lw2QlqP0XKKlFQw)
+
+### 🔗 Seguimi anche su:
+
+- **Twitch:** [loreair](https://www.twitch.tv/loreair)
+- **Instagram:** [@loreair](https://instagram.com/loreair)
+- **Discord:** [discord.gg/37wpFTNbsy](https://discord.gg/37wpFTNbsy)
+- **Telegram:** [t.me/LoreairOfficial](https://t.me/LoreairOfficial)
 - **Profilo GitHub:** [github.com/loreair](https://github.com/loreair)
 - **DCS World:** [digitalcombatsimulator.com](https://www.digitalcombatsimulator.com/)
 
