@@ -5,9 +5,9 @@ Qui troverai i file `.dtc` da scaricare per ogni velivolo, da usare insieme ai v
 
 ---
 
-## 📺 Cos'è®® questa serie?
+## 📺 Cos'è questa serie?
 
-Questa serie di videotutorial ti guiderà®® passo-passo nell'utilizzo delle **Data Transfer Cartridge** nei vari moduli di DCS World.  
+Questa serie di videotutorial ti guiderà passo-passo nell'utilizzo delle **Data Transfer Cartridge** nei vari moduli di DCS World.  
 Ogni video è accompagnato da un file `.dtc` pronto per essere scaricato e utilizzato nella tua installazione di DCS.
 
 **Come funziona:**
@@ -58,7 +58,7 @@ L'Apache chiude la prima serie di tutorial con le sue complesse procedure di pia
 
 ## 🎬 Video Annuncio Serie
 
-Vuoi sapere di più su questa serie? Guarda il video annuncio su **Aircafè®®**:
+Vuoi sapere di più su questa serie? Guarda il video annuncio su **Aircafè**:
 
 ▶️ **[Guarda l'annuncio su YouTube](https://youtu.be/VK0hQnTXsU4?si=dtZN6qUOpHUqeDP5)**
 
@@ -115,7 +115,7 @@ C:\Utente\Saved Games\DCS.openbeta\DTC
 
 ## 📝 Note
 
-- I file `.dtc` sono forniti **così®® come sono** per scopi educativi
+- I file `.dtc` sono forniti **così come sono** per scopi educativi
 - Compatibili con DCS World OpenBeta e Stable
 - Per domande o problemi, apri una **Issue** su questo repository
 
