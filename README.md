@@ -1,3 +1,5 @@
+🇮🇹 Italiano | [🇬🇧 English](README_EN.md)
+
 # 🎮 DCS: Tutorial DTC (Data Transfer Cartridge)
 
 Benvenuto nella serie di tutorial dedicati all'uso delle **DTC (Data Transfer Cartridge)** in DCS World.  
@@ -23,7 +25,9 @@ Ogni video è accompagnato da un file `.dtc` pronto per essere scaricato e utili
 ### 🛩️ F/A-18C Hornet
 - **Stato:** ✅ Disponibile
 - **Video tutorial:** [Coming Soon]()
-- **File .dtc:** [FA-18C-LOREAIR-TUTORIAL.dtc](./FA-18C-LOREAIR-TUTORIAL.dtc)
+- **File DTC:** [Scarica il pacchetto F/A-18C](./FA-18C%20LOREAIR%20TUTORIAL.zip)
+
+> Estrai il file `.dtc` contenuto nell'archivio ZIP e copialo nella cartella: `C:\Utente\Saved Games\DCS\DTC`
 
 Il primo modulo della serie! Imparerai a configurare la DTC dell'Hornet per missioni rapide e realistiche.
 
@@ -68,7 +72,7 @@ Vuoi sapere di più su questa serie? Guarda il video annuncio su **Aircafè**:
 
 Per utilizzare questi file hai bisogno di:
 
-- **DCS World** (versione gratuita o Steam)
+- **DCS World**
 - I moduli corrispondenti ai tutorial che vuoi seguire:
   - [DCS: F/A-18C](https://www.digitalcombatsimulator.com/it/shop/modules/hornet/)
   - [DCS: F-14B(U)](https://www.digitalcombatsimulator.com/it/shop/modules/f-14bu/)
@@ -87,27 +91,22 @@ Copia i file `.dtc` scaricati in questa cartella:
 C:\Utente\Saved Games\DCS\DTC
 ```
 
-**Nota:** Se usi la versione **OpenBeta**, il percorso sarà:
-```
-C:\Utente\Saved Games\DCS.openbeta\DTC
-```
-
 ### Procedura passo-passo:
 
-1. **Scarica** il file `.dtc` dal link corrispondente
-2. **Copia** il file nella cartella:
+1. **Scarica** il pacchetto ZIP del velivolo dal link corrispondente
+2. **Estrai** il file `.dtc` contenuto nell'archivio ZIP
+3. **Copia** il file `.dtc` nella cartella:
    ```
    C:\Utente\Saved Games\DCS\DTC
    ```
-3. **Avvia** DCS World
-4. **Carica** la DTC dal menu dell'aeromobile corrispondente
-5. **Segui** il video tutorial per comprendere le impostazioni
+4. **Avvia** DCS World
+5. **Carica** la DTC dal menu dell'aeromobile corrispondente
+6. **Segui** il video tutorial per comprendere le impostazioni
 
 ---
 
 ## 🔗 Link Utili
 
-- **Canale YouTube:** [Loreair]() *(da aggiungere)*
 - **Profilo GitHub:** [github.com/loreair](https://github.com/loreair)
 - **DCS World:** [digitalcombatsimulator.com](https://www.digitalcombatsimulator.com/)
 
@@ -116,11 +115,10 @@ C:\Utente\Saved Games\DCS.openbeta\DTC
 ## 📝 Note
 
 - I file `.dtc` sono forniti **così come sono** per scopi educativi
-- Compatibili con DCS World OpenBeta e Stable
 - Per domande o problemi, apri una **Issue** su questo repository
 
 ---
 
-**Buon volo! ✈️**
+**Happy landings! ✈️**
 
 *Creato da [@loreair](https://github.com/loreair)*
