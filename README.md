@@ -11,9 +11,10 @@ Questa raccolta di videotutorial e file `.dtc` (Data Transfer Cartridge) è pens
 ### F/A-18C Hornet
 
 - **Stato:** Disponibile
-- **Videotutorial:** [Guarda il tutorial completo](https://youtu.be/w2-hI98Nu5U)
+- **Videotutorial:** [Guarda la playlist completa](https://www.youtube.com/playlist?list=PLXqBaRw7h9n4)
+- **Video 1 – Introduzione:** [Guarda il video iniziale](https://youtu.be/w2-hI98Nu5U)
 - **Download:** [Scarica il pacchetto F/A-18C](./FA-18C%20LOREAIR%20TUTORIAL.zip)
-- **Descrizione:** Tutorial introduttivo alle DTC per l'F/A-18C Hornet. Imposta e usa la Data Transfer Cartridge per apprendere le procedure di base spiegate nel video.
+- **Descrizione:** Tutorial introduttivo alle DTC per l'F/A-18C Hornet. Imposta e usa la Data Transfer Cartridge per apprendere le procedure di base spiegate nei video.
 
 ### F-14B(U) Tomcat
 
