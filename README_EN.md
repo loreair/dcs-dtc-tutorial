@@ -11,9 +11,10 @@ This collection of video tutorials and `.dtc` files (Data Transfer Cartridge) is
 ### F/A-18C Hornet
 
 - **Status:** Available
-- **Video Tutorial:** [Watch the full tutorial](https://youtu.be/w2-hI98Nu5U)
+- **Video Tutorial:** [Watch the full playlist](https://www.youtube.com/playlist?list=PLXqBaRw7h9n4)
+- **Video 1 – Introduction:** [Watch the introductory video](https://youtu.be/w2-hI98Nu5U)
 - **Download:** [Download F/A-18C Package](./FA-18C%20LOREAIR%20TUTORIAL.zip)
-- **Description:** Introductory DTC tutorial for the F/A-18C Hornet. Set up and use the Data Transfer Cartridge to learn the basic procedures explained in the video.
+- **Description:** Introductory DTC tutorial for the F/A-18C Hornet. Set up and use the Data Transfer Cartridge to learn the basic procedures explained in the videos.
 
 ### F-14B(U) Tomcat
 
